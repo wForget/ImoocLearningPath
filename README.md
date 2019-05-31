@@ -1,5 +1,7 @@
 ## 慕课网学习路径
 
+慕课网路径入口已经找不到，通过爬虫遍历爬取部分路径整理如下：
+
 + [Android-微信热门功能合集](path/Android-微信热门功能合集.md)
 + [Android加薪利器--自定义View](path/Android加薪利器--自定义View.md)
 + [Android加薪利器——断点续传](path/Android加薪利器——断点续传.md)
